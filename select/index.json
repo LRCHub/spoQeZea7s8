@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "淡さと微睡む",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-14T02:40:47.223765Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "淡さと微睡む",
+      "artist": "MIMI",
+      "has_synced": true,
+      "path": "select/01_淡さと微睡む_MIMI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "淡さと微睡む",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_淡さと微睡む_MIMI.txt"
+    }
+  ]
+}
